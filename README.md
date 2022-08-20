@@ -6,4 +6,19 @@
 
 这个工程是用的[别人](http://thecodeway.com/blog/?p=69)的代码啦，以及工程里我将未名湖的图片删掉了，不然实在是太大了。
 
-使用方法：双击`./Jpeg/Jpeg.sln`即可
+使用方法：
+- 双击`./Jpeg/Jpeg.sln`
+    - "开始调试"
+
+## [数字图像处理(2)：图像反相(分别用C语言、OpenCV、Matlab实现)](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106972830?spm=1001.2014.3001.5502)
+
+对应工程：[Inversion](./Inversion/)
+
+这个工程是包含两个，一个是用C语言实现，一个是用OpenCV实现。
+
+使用方法：
+- 双击`./Inversion/RAM/RAW.sln`
+    - "开始调试"
+- 双击`./Inversion/OpenCV/Inversion.sln`
+    - "开始调试"
+
