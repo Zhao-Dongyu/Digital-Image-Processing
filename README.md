@@ -71,3 +71,12 @@
 使用方法：
 - 双击`./FFT/FFT.sln`
     - "开始调试"
+
+## [数字图像处理(9)：拉普拉斯算子增强](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106976256)
+
+对应工程：[Laplace](./Laplace/)
+
+使用方法：
+- 双击`./Laplace/Laplace.sln`
+    - "开始调试"
+
