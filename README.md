@@ -80,3 +80,10 @@
 - 双击`./Laplace/Laplace.sln`
     - "开始调试"
 
+## [数字图像处理(10)：图像复原（去噪，C语言）](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106976443)
+
+对应工程：[ImageRestoration](./ImageRestoration/)
+
+使用方法：
+- 双击`./ImageRestoration/图像复原.sln`
+    - "开始调试"
