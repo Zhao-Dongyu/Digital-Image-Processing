@@ -39,3 +39,13 @@
 使用方法：
 - 双击`./Resize/RAW.sln`
     - "开始调试"
+
+## [数字图像处理(5)：幂次变换（C语言实现）](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106973554)
+
+对应工程：[PowerTransformation](./PowerTransformation/)
+
+使用方法：
+- 双击`./PowerTransformation/PowerTransformation.sln`
+    - "开始调试"
+
+
