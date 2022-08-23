@@ -22,3 +22,12 @@
 - 双击`./Inversion/OpenCV/Inversion.sln`
     - "开始调试"
 
+## [数字图像处理(3)：直方图均衡化（C语言）](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106973312)
+
+对应工程：[HistogramEqualization](./HistogramEqualization/)
+
+直方图均衡化(Histogram Equalization) 又称直方图平坦化,实质上是对图像进行非线性拉伸,重新分配图像象元值,使一定灰度范围内象元值的数量大致相等。
+
+使用方法：
+- 双击`./HistogramEqualization/RAW.sln`
+    - "开始调试"
