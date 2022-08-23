@@ -48,4 +48,17 @@
 - 双击`./PowerTransformation/PowerTransformation.sln`
     - "开始调试"
 
+## [数字图像处理(5)：幂次变换（C语言实现）](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106973554)
+
+对应工程：[PowerTransformation](./PowerTransformation/)
+
+使用方法：
+- 双击`./PowerTransformation/PowerTransformation.sln`
+    - "开始调试"
+
+## [数字图像处理(6)：设计数字图像处理GUI界面（C语言，未用opencv）](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106974028)
+
+工程文件太大，就不传git了。都是前几个工程算法的集合，加上GUI而已
+
+
 
