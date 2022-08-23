@@ -58,7 +58,21 @@
 
 ## [数字图像处理(6)：设计数字图像处理GUI界面（C语言，未用opencv）](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106974028)
 
-工程文件太大，就不传git了。都是前几个工程算法的集合，加上GUI而已
+~~工程文件太大，就不传git了。都是前几个工程算法的集合，加上GUI而已~~
+
+更新：
+
+对应工程：[MFC_Image](./MFC_Image/)
+
+使用方法：
+- 双击`./MFC_Image/MFC_Image.sln`
+    - "开始调试"
+
+删除了一些文件，不知道能不能正常使用，不过主要代码都在里面了，配置一下环境就好。
+
+## [数字图像处理(7)：爬虫建立数据库并实现图像检索](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106974176)
+
+~~同上，工程文件太大，就不传git了。~~
 
 更新：
 
@@ -69,10 +83,6 @@
     - "开始调试"
 
 删除了一些文件，不知道能不能正常使用，不过主要代码都在里面了，配置一下环境就好。
-
-## [数字图像处理(7)：爬虫建立数据库并实现图像检索](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106974176)
-
-同上，工程文件太大，就不传git了。
 
 ## [数字图像处理(8):实现FFT快速算法(C语言)](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106975214)
 
