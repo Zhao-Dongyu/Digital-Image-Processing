@@ -60,5 +60,8 @@
 
 工程文件太大，就不传git了。都是前几个工程算法的集合，加上GUI而已
 
+## [数字图像处理(7)：爬虫建立数据库并实现图像检索](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106974176)
+
+同上，工程文件太大，就不传git了。
 
 
