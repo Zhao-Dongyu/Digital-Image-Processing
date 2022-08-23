@@ -31,3 +31,11 @@
 使用方法：
 - 双击`./HistogramEqualization/RAW.sln`
     - "开始调试"
+
+## [数字图像处理(4)：图像缩放（C语言实现）](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106973433)
+
+对应工程：[Resize](./Resize/)
+
+使用方法：
+- 双击`./Resize/RAW.sln`
+    - "开始调试"
