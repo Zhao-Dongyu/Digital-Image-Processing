@@ -1,4 +1,6 @@
-本工程为博客《[数字图像处理系列](https://blog.csdn.net/zhaodongyu_ak47/category_10138770.html)》对应代码，那会儿我都是用的visual studio做的，因此你可以安装VS后运行对应工程，也可以单独将源码拿出来进行make。
+
+
+本工程为博客《[数字图像处理系列](https://blog.csdn.net/zhaodongyu_ak47/category_10138770.html)》对应代码，那会儿我都是用的visual studio做的，因此你可以安装VS后运行对应工程，也可以单独将源码拿出来自行编译。
 
 ## [数字图像处理(1)：JPEG分析 & 实践（C语言）](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/106971801?spm=1001.2014.3001.5502)
 
